@@ -1,0 +1,13 @@
+C:\Users\3zAl7arbi\source\repos\Rotate\Rotate\obj\Debug\netcoreapp3.1\Rotate.csprojAssemblyReference.cache
+C:\Users\3zAl7arbi\source\repos\Rotate\Rotate\obj\Debug\netcoreapp3.1\Rotate.AssemblyInfoInputs.cache
+C:\Users\3zAl7arbi\source\repos\Rotate\Rotate\obj\Debug\netcoreapp3.1\Rotate.AssemblyInfo.cs
+C:\Users\3zAl7arbi\source\repos\Rotate\Rotate\obj\Debug\netcoreapp3.1\Rotate.csproj.CoreCompileInputs.cache
+C:\Users\3zAl7arbi\source\repos\Rotate\Rotate\bin\Debug\netcoreapp3.1\Rotate.exe
+C:\Users\3zAl7arbi\source\repos\Rotate\Rotate\bin\Debug\netcoreapp3.1\Rotate.deps.json
+C:\Users\3zAl7arbi\source\repos\Rotate\Rotate\bin\Debug\netcoreapp3.1\Rotate.runtimeconfig.json
+C:\Users\3zAl7arbi\source\repos\Rotate\Rotate\bin\Debug\netcoreapp3.1\Rotate.runtimeconfig.dev.json
+C:\Users\3zAl7arbi\source\repos\Rotate\Rotate\bin\Debug\netcoreapp3.1\Rotate.dll
+C:\Users\3zAl7arbi\source\repos\Rotate\Rotate\bin\Debug\netcoreapp3.1\Rotate.pdb
+C:\Users\3zAl7arbi\source\repos\Rotate\Rotate\obj\Debug\netcoreapp3.1\Rotate.dll
+C:\Users\3zAl7arbi\source\repos\Rotate\Rotate\obj\Debug\netcoreapp3.1\Rotate.pdb
+C:\Users\3zAl7arbi\source\repos\Rotate\Rotate\obj\Debug\netcoreapp3.1\Rotate.genruntimeconfig.cache
